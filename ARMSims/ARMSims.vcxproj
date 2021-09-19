@@ -139,7 +139,34 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AddressIncrementer.cpp" />
+    <ClCompile Include="AddressRegister.cpp" />
+    <ClCompile Include="ControlLogic.cpp" />
+    <ClCompile Include="CPU.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Multiplier.cpp" />
+    <ClCompile Include="OpDecoder.cpp" />
+    <ClCompile Include="OpRegister.cpp" />
+    <ClCompile Include="ReadRegister.cpp" />
+    <ClCompile Include="RegistersBank.cpp" />
+    <ClCompile Include="ShiftRegister.cpp" />
+    <ClCompile Include="UAL.cpp" />
+    <ClCompile Include="WriteRegister.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AddressIncrement.h" />
+    <ClInclude Include="AddressIncrementer.h" />
+    <ClInclude Include="AddressRegister.h" />
+    <ClInclude Include="ControlLogic.h" />
+    <ClInclude Include="CPU.h" />
+    <ClInclude Include="Multiplier.h" />
+    <ClInclude Include="OpDecoder.h" />
+    <ClInclude Include="OpRegister.h" />
+    <ClInclude Include="ReadRegister.h" />
+    <ClInclude Include="RegistersBank.h" />
+    <ClInclude Include="ShiftRegister.h" />
+    <ClInclude Include="UAL.h" />
+    <ClInclude Include="WriteRegister.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

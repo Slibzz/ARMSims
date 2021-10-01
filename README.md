@@ -2,7 +2,7 @@
 
 **Cycle Accurate ARM7 Simulator**
 This project is a ALL-IN-ONE portefolio to master : \
--Object-Oriented development
+- Object-Oriented development
 - ARM knowledge
 -C++
 - new windows WINUI 3.0 GUI

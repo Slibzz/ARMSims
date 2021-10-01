@@ -1,7 +1,7 @@
 # ARMSims
 
 **Cycle Accurate ARM7 Simulator**
-This project is a ALL-IN-ONE portefolio to master :
+This project is a ALL-IN-ONE portefolio to master : \
 -Object-Oriented development
 - ARM knowledge
 -C++

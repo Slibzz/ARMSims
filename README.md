@@ -4,12 +4,13 @@
 This project is a ALL-IN-ONE portefolio to master :
 - Object-Oriented development
 - ARM knowledge
--C++
+- C++
 - new windows WINUI 3.0 GUI
 - cross platform GUI
 
 **TODO:**
 - :heavy_multiplication_x: All class completed
+- :heavy_multiplication_x: OpCode parser
 - :heavy_multiplication_x: Working CPU class
 - :heavy_multiplication_x: Accurate cycle 
 - :heavy_multiplication_x: Console application GUI

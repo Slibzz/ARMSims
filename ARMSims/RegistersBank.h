@@ -12,7 +12,7 @@
 class RegistersBank
 {
 private:
-	Register registers[16];
+	Register registers[REGISTERS_NUMBERS];
 	// We will forget private/exception registers for now
 
 public:
